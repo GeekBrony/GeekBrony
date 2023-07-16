@@ -7,7 +7,7 @@
 
 ## Skills / Experience
 - 6 years - Unity Engine
-- 5 years - C# (.Net/.Net Core) 
+- 5 years - C# (.Net / .Net Core) 
 - 3 years - PHP
 - 3 years - SQL / Database Design
 - 2 years - Java
