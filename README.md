@@ -1,5 +1,4 @@
-![Dev Header](dev_header.png)
-<!-- # GeekBrony 🦄 -->
+# GeekBrony 🦄
 - 💜 Pronouns: **they/them**
 - 🎮 Unity Game Developer
 - 💾 Software Engineer
