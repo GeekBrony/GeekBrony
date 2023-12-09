@@ -1,20 +1,21 @@
 # GeekBrony 🦄
-- 💜 Pronouns: **They/Them**
+- 💜 Pronouns: **they/them**
 - 🎮 Unity Game Developer
 - 💾 Software Engineer
 - 🌐 Network Engineer (AAS)
-- 🦄 3D Artist ([Commissions](https://geek.horse/commissions/))
+- 🦄 3D Artist
 
 ## Skills / Experience
 - 6 years - Unity Engine
-- 5 years - C# (.Net / .Net Core) 
+- 6 years - C# (.Net / .Net Core) 
 - 3 years - PHP
 - 3 years - SQL / Database Design
 - 2 years - Java
 
 #### I'm currently learning...
 - Unity
-	- DOTS/ECS
+	- Tools Development
+        - DOTS / ECS
 - C# / .NET
 	- EF Core
 	- ASP.NET
