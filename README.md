@@ -15,7 +15,7 @@
 #### I'm currently learning...
 - Unity
 	- Tools Development
-        - DOTS / ECS
+	- DOTS / ECS
 - C# / .NET
 	- EF Core
 	- ASP.NET
