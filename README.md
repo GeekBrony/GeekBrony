@@ -1,3 +1,7 @@
+<p align="center" style="margin-bottom: 2rem">
+    <img align="center" src="dev_header.png"  width="600" />	
+</p>
+
 # GeekBrony 🦄
 - 💜 Pronouns: **they/them**
 - 🎮 Unity Game Developer
