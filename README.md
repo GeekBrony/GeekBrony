@@ -5,7 +5,7 @@
 # GeekBrony 🦄
 - 💜 Pronouns: **they/them**
 - 🎮 Unity Game Developer
-- 💾 Software Engineer
+- 💾 Software Developer
 - 🌐 Network Engineer (AAS)
 - 🦄 3D Artist
 
