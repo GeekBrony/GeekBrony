@@ -17,13 +17,12 @@
 - 2 years - Java
 
 #### I'm currently learning...
-- Unity
+- Unity Engine
 	- Tools Development
 	- DOTS / ECS
-- C# / .NET
-	- EF Core
-	- ASP.NET
-	- Linq To Entities
+- .Net / .Net Core
+	- Entity Framework
+	- Asp.Net
 
 ## Current Project: PoniGame
 Since 2018, I have been developing PoniGame, an MMO with cute pastel ponies.
@@ -32,14 +31,3 @@ More info:
 - [PoniGame: 4 Years of Dev Progress (2018-2021)](https://www.youtube.com/watch?v=zJy9Oajqwn8)
 - [@PoniGame on Twitter](https://twitter.com/PoniGame) - follow for announcements, updates and such
 - [@PoniGame on Mastodon](https://pony.social/@PoniGame) - follow for announcements, updates and such
-
-<!--
-
-- 3 years of experience in 3D software (I main Blender and Substance Painter)
-
-### About Me
-- I am a musician!
-	- I compose and produce music every once in a while.
-	- I have performed as a DJ at several conventions!
-
--->
