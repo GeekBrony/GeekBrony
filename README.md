@@ -20,9 +20,9 @@
 - Unity Engine
 	- Tools Development
 	- DOTS / ECS
-- .Net / .Net Core
-	- Entity Framework
-	- Asp.Net
+- .Net Core
+	- Entity Framework Core
+	- Asp.Net Core
 
 ## Current Project: PoniGame
 Since 2018, I have been developing PoniGame, an MMO with cute pastel ponies.
