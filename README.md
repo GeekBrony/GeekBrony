@@ -19,13 +19,12 @@
 #### I'm currently learning...
 - Unity Engine
 	- Tools Development
-	- DOTS / ECS
 - .Net Core
 	- Entity Framework Core
 	- Asp.Net Core
 
 ## Current Project: PoniGame
-Since 2018, I have been developing PoniGame, an MMO with cute pastel ponies.
+Since 2018, I have been developing PoniGame, an MMO Sandbox with cute pastel ponies.
 
 More info:
 - [PoniGame: 4 Years of Dev Progress (2018-2021)](https://www.youtube.com/watch?v=zJy9Oajqwn8)
