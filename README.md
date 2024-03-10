@@ -16,7 +16,8 @@
 - 3 years - SQL / Database Design
 - 2 years - Java
 
-#### I'm currently learning...
+#### 📚 Currently learning...
+- C (C99) and C++ (C++11)
 - Unity Engine
 	- Tools Development
 - .Net Core
