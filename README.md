@@ -27,7 +27,7 @@
 ## Current Project: PoniGame
 Since 2018, I have been developing PoniGame, an MMO Sandbox with cute pastel ponies.
 
-More info:
-- [PoniGame: 4 Years of Dev Progress (2018-2021)](https://www.youtube.com/watch?v=zJy9Oajqwn8)
-- [@PoniGame on Twitter](https://twitter.com/PoniGame) - follow for announcements, updates and such
-- [@PoniGame on Mastodon](https://pony.social/@PoniGame) - follow for announcements, updates and such
+As a Backend Developer, I am responsible for:
+- Developing the game's backend service architecture
+- Maintaining a .NET network messaging framework, shared between client and server
+- Designing a database from scratch using Code-first Entity Framework Core
