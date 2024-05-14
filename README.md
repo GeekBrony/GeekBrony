@@ -17,7 +17,8 @@
 - 2 years - Java
 
 #### 📚 Currently learning...
-- C (C99) and C++ (C++11)
+- C and C++
+	- OpenGL (GLFW / GLEW)
 - Unity Engine
 	- Tools Development
 - .Net Core
