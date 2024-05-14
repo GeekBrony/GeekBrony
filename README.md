@@ -5,7 +5,7 @@
 # GeekBrony 🦄
 - 💜 Pronouns: **they/them**
 - 🎮 Unity Game Developer
-- 💾 Software Developer
+- 💾 Software Engineer
 - 🌐 Network Engineer (AAS)
 - 🦄 3D Artist
 
@@ -27,10 +27,12 @@
 	- OpenGL (GLFW / GLEW)
 
 ## Current Project: PoniGame
-Since 2018, I have been developing PoniGame, an MMO Sandbox with cute pastel ponies.
-This is a personal project that I have been working on as a way to learn and understand the processes of game development.
+In 2018, I started development on PoniGame, an MMO Sandbox with pastel ponies.
+
+This is a personal project that I have been passionately + diligently working on as a way to learn and understand the software development lifecycle in games.
+In the future, I plan to use this knowledge as a stepping stone for my career as a Software Engineer.
 
 As a Backend Developer, I am responsible for:
-- Developing the game's backend service architecture, to scale.
+- Developing the game's backend service architecture to scale.
 - Developing and maintaining a custom .NET network serialization framework.
-- Designing a database from scratch using Entity Framework Core Code-First with PostgreSQL
+- Designing a PostgreSQL database from scratch using Entity Framework Core (Code-First)
