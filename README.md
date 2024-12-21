@@ -3,7 +3,7 @@
 </p>
 
 # GeekBrony 🦄
-- 💜 Pronouns: **they/them**
+- 💜 Pronouns: **she/her**
 - 🎮 Unity Game Developer
 - 💾 Software Engineer
 - 🌐 Network Engineer (AAS)
