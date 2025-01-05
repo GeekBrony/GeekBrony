@@ -12,19 +12,17 @@
 ## Skills / Experience
 - 6 years - Unity Engine
 - 6 years - C# (.NET / .NET Core)
-- 3 years - PHP
 - 3 years - SQL / Database Design
+- 2 years - C / C++
 - 2 years - Java
 
 #### 📚 Currently learning...
-- .NET Core
-	- Entity Framework Core
-	- ASP.NET Core
 - Unity Engine
 	- Tools Development
 	- Game Development
-- C and C++
-	- OpenGL (GLFW / GLEW)
+- .NET Core
+	- Entity Framework Core
+	- ASP.NET Core
 
 ## Current Project: PoniGame
 In 2018, I started development on PoniGame, an MMO Sandbox with pastel ponies.
