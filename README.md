@@ -10,9 +10,9 @@
 - 🦄 3D Artist
 
 ## Skills / Experience
-- 6 years - Unity Engine
-- 6 years - C# (.NET / .NET Core)
-- 3 years - SQL / Database Design
+- 7 years - Unity Engine
+- 7 years - C# (.NET / .NET Core)
+- 4 years - SQL / Database Design
 - 2 years - C / C++
 - 2 years - Java
 
