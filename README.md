@@ -2,7 +2,7 @@
     <img align="center" src="dev_header.png"  width="600" />	
 </p>
 
-# GeekBrony 🦄
+# MoonbowPony / GeekBrony 🦄
 - 💜 Pronouns: **she/her**
 - 🎮 Unity Game Developer
 - 💾 Software Engineer
