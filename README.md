@@ -24,8 +24,11 @@
 	- Entity Framework Core
 	- ASP.NET Core
 
-## Current Project: PoniGame
-In 2018, I started development on PoniGame, an MMO Sandbox with pastel ponies.
+## Current Project: Heart of the Herd
+In 2018, I started development on Heart of the Herd.
 
-This is a personal project that I have been passionately + diligently working on as a way to learn and understand the software development lifecycle in games.
-In the future, I plan to use this knowledge as a stepping stone for my career as a Software Engineer.
+### What is Heart of the Herd?
+[Heart of the Herd](https://heartoftheherd.com/) is an open world slice-of-life social MMO platform where you can create your own pony, make friends, explore a warm and magical pony world, engage in an immersive community roleplay, and be part of a kind, creative, pony-spirited community.
+
+This game is in-development and is expected to launch over the next few years.
+
